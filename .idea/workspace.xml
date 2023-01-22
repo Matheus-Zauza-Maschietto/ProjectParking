@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c104725e-e4ac-4972-b0c6-a9a3a8f2f55f" name="Changes" comment="" />
+    <list default="true" id="c104725e-e4ac-4972-b0c6-a9a3a8f2f55f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ProjectParking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectParking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BDD.db" beforeDir="false" afterPath="$PROJECT_DIR$/BDD.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/GitHub/ProjectParking"
+    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/GitHub/YoutubeDownloaderPython"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
